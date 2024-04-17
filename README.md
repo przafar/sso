@@ -15,17 +15,8 @@ I used `reactjs`
 - run `npm install`
 - start `npm run start`
 
-## Approach
-I adopted the `BEM` naming style for my css class names and ...
+## More info
 
-## Status
-[name of project] is still in progress. `Version 2` will be out soon.
-
-## Credits
-List of contriubutors:
-- [John Doe](johndoe.com)
-- [Beginners guide to BEM](link-goes-here.com)
-
-## License
-
-MIT license @ [author](author.com)
+- [https://www.rfc-editor.org/rfc/rfc6749]
+- [https://www.rfc-editor.org/rfc/rfc7636]
+- [https://oauth.net/2]
