@@ -17,6 +17,7 @@ I used `reactjs`
 
 ## More info
 
+- [https://api-docs.ssv.uz/Authorization.html]
 - [https://www.rfc-editor.org/rfc/rfc6749]
 - [https://www.rfc-editor.org/rfc/rfc7636]
 - [https://oauth.net/2]
