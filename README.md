@@ -1,8 +1,7 @@
 # Project Title
 The OAuth 2.0
 
-## Demo link:
-Access my site at [http://sso.ssv.uz](https://test-sso.ssv.uz)
+
 
 ## About The App
 The OAuth 2.0 Authorization Framework SSO.UZ
