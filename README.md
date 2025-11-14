@@ -12,7 +12,7 @@ I used `reactjs`
 ## Setup
 - download or clone the repository
 - run `npm install`
-- start `npm run start`
+- start `npm start`
 
 ## More info
 
