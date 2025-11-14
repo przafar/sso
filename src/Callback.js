@@ -1,8 +1,8 @@
 import { useEffect, useState } from 'react';
 
-const TOKEN_URL = process.env.REACT_APP_SSO_TOKEN_URL || 'https://sso.dhp.uz/api/oauth/token';
-const CLIENT_ID = process.env.REACT_APP_CLIENT_ID || 'patient_portal';
-const GRANT_TYPE = process.env.REACT_APP_GRANT_TYPE || 'authorization_code';
+const TOKEN_URL = process.env.REACT_APP_SSO_TOKEN_URL;
+const CLIENT_ID = process.env.REACT_APP_CLIENT_ID;
+const GRANT_TYPE = process.env.REACT_APP_GRANT_TYPE;
 
 const CODE_VERIFIER_KEY = 'phj_pkce_code_verifier';
 const ACCESS_TOKEN_KEY = 'phj_access_token';
